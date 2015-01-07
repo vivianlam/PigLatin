@@ -66,6 +66,7 @@ public String pigLatin(String sWord)
 		return "ERROR!";
 	}
 }
+//
   static public void main(String[] passedArgs) {
     String[] appletArgs = new String[] { "PigLatin" };
     if (passedArgs != null) {
